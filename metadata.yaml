@@ -1,0 +1,41 @@
+_repo: Pascal-s-Pens-es_18269
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Eliot, T. S. (Thomas Stearns)
+    alias: Eliot, Thomas Stearns
+    birthdate: 1888
+    deathdate: 1965
+    gutenberg_agent_id: '599'
+    url: http://www.gutenberg.org/2009/agents/599
+    wikipedia: http://en.wikipedia.org/wiki/T._S._Eliot
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pascal, Blaise
+    alias: Montalte, Louis de
+    birthdate: 1623
+    deathdate: 1662
+    gutenberg_agent_id: '7913'
+    url: http://www.gutenberg.org/2009/agents/7913
+    wikipedia: http://en.wikipedia.org/wiki/Blaise_Pascal
+description: ''
+gutenberg_bookshelf:
+- Harvard Classics
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2006-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcsh 'Apologetics'
+- !lcc 'B'
+title: Pascal's Pensées
+url: http://www.gutenberg.org/ebooks/18269
