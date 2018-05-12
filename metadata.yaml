@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7913
     wikipedia: http://en.wikipedia.org/wiki/Blaise_Pascal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18269#Pascal-s-Pens-es
 gutenberg_bookshelf:
 - Harvard Classics
 - Banned Books from Anne Haight's list
